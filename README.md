@@ -7,3 +7,4 @@ I have removed both About and Contact links.
 github link : 
 https://github.com/200374847/MVC_Application_Assignment1
 Azure link :
+https://mvcapplicationa1.azurewebsites.net
